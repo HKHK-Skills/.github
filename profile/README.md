@@ -1,43 +1,39 @@
 # HKHK Skills
 
-GitHub Skills kursused eesti keeles.
+GitHubi õppelab HKHK kursustele ja projektidele.
 
-## Kursused
+## Õpitee
 
-**Algajatele**
-- [Sissejuhatus GitHubi](https://github.com/HKHK-Skills/introduction-to-github) — harud, commit'id, pull request'id
-- [Markdown](https://github.com/HKHK-Skills/communicate-using-markdown) — teksti vormindamine
-- [GitHub Pages](https://github.com/HKHK-Skills/github-pages) — veebilehe loomine
+### 1. Esimene päev GitHubis
+- [Sissejuhatus GitHubi](https://github.com/HKHK-Skills/introduction-to-github) – repositooriumid, harud, commit'id, pull request'id
+- [Markdown](https://github.com/HKHK-Skills/communicate-using-markdown) – teksti vormindamine, lingid, pildid
+- [GitHub Pages](https://github.com/HKHK-Skills/github-pages) – lihtne veebileht repositooriumist
 
-**Kesktase**
-- [Pull request'ide ülevaatamine](https://github.com/HKHK-Skills/review-pull-requests)
-- [Codespaces](https://github.com/HKHK-Skills/code-with-codespaces) — pilves arenduskeskkond
+### 2. Koostöö ja pilv
+- [Pull request'ide ülevaatamine](https://github.com/HKHK-Skills/review-pull-requests) – koodireview ja kommentaarid
+- [Codespaces](https://github.com/HKHK-Skills/code-with-codespaces) – pilves arenduskeskkond brauseris
 
-**Edasijõudnud**
-- [GitHub Actions](https://github.com/HKHK-Skills/hello-github-actions) — töövoogude automatiseerimine
-- [Testimine Actionsiga](https://github.com/HKHK-Skills/test-with-actions) — CI/CD
+### 3. Automatiseerimine ja CI/CD
+- [GitHub Actions](https://github.com/HKHK-Skills/hello-github-actions) – töövoogude käivitamine sündmuste põhjal
+- [Testimine Actionsiga](https://github.com/HKHK-Skills/test-with-actions) – CI/CD töövood ja testid
 
-**AI**
-- [GitHub Copilot](https://github.com/HKHK-Skills/getting-started-with-github-copilot)
+### 4. AI abil arendus
+- [GitHub Copilot](https://github.com/HKHK-Skills/getting-started-with-github-copilot) – koodisoovitused VS Code'is ja Codespacesis
 
-## Kuidas see töötab?
+## Alusta nii
 
-Sul on oma organisatsioon (nt `akreimann`), kuhu teed kõik tööd. See jääb sulle portfoolioks.
+Kõik kursusetööd teed oma GitHubi organisatsiooni alt, mis toimib sinu portfooliona.
 
-**Kursuse alustamine:**
-1. Ava kursuse link ülalt
-2. Vajuta **Use this template** → **Create a new repository**
-3. Owner = **sinu org** (mitte isiklik konto!)
-4. Tee kursus läbi, jälgides README juhiseid
+1. Ava valitud kursuse repo ülalolevast loendist
+2. Nupp **Use this template** → **Create a new repository**
+3. Väljal **Owner** vali oma org (mitte isiklik konto)
+4. Loo repo, oota veidi ja järgi uue repo README juhiseid
 
-**Ülesanded ja projektid:**
+## Ülesanded ja abi
 
-Õpetaja lisab sulle ülesanded läbi GitHub Projectsi. Vaata oma orgi **Projects** vahelehte — seal näed oma Kanban tahvlit kõigi ülesannetega. Kui õpetaja loob uue ülesande, tekib see automaatselt sinu tahvlile.
-
-## Abi
-
-Küsimused? Kirjuta [HKHK-Skills Discussions](https://github.com/orgs/HKHK-Skills/discussions).
+- **Ülesanded:** vaata oma organisatsiooni Projects → Kanban-tahvlid
+- **Abi ja küsimused:** [HKHK-Skills Discussions](https://github.com/orgs/HKHK-Skills/discussions)
 
 ---
 
-[Haapsalu Kutsehariduskeskus](https://hkhk.edu.ee/) · IT-süsteemide nooremspetsialist
+[Haapsalu Kutsehariduskeskus](https://hkhk.edu.ee/)
