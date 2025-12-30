@@ -1,7 +1,3 @@
-# HKHK Skills
-
-GitHubi õppelab HKHK kursustele ja projektidele.
-
 ## Õpitee
 
 ### 1. Esimene päev GitHubis
@@ -20,6 +16,8 @@ GitHubi õppelab HKHK kursustele ja projektidele.
 ### 4. AI abil arendus
 - [GitHub Copilot](https://github.com/HKHK-Skills/getting-started-with-github-copilot) – koodisoovitused VS Code'is ja Codespacesis
 
+---
+
 ## Alusta nii
 
 Kõik kursusetööd teed oma GitHubi organisatsiooni alt, mis toimib sinu portfooliona.
@@ -29,11 +27,9 @@ Kõik kursusetööd teed oma GitHubi organisatsiooni alt, mis toimib sinu portfo
 3. Väljal **Owner** vali oma org (mitte isiklik konto)
 4. Loo repo, oota veidi ja järgi uue repo README juhiseid
 
+---
+
 ## Ülesanded ja abi
 
 - **Ülesanded:** vaata oma organisatsiooni Projects → Kanban-tahvlid
-- **Abi ja küsimused:** [HKHK-Skills Discussions](https://github.com/orgs/HKHK-Skills/discussions)
-
----
-
-[Haapsalu Kutsehariduskeskus](https://hkhk.edu.ee/)
+- **Abi ja küsimused:** [Discussions](https://github.com/orgs/HKHK-Skills/discussions)
