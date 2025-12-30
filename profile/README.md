@@ -1,53 +1,43 @@
-# HKHK Skills 🎓
+# HKHK Skills
 
-GitHub Skills õppematerjalid eesti keeles Haapsalu Kutsehariduskeskuse jaoks.
+GitHub Skills kursused eesti keeles.
 
-## 📚 Kursused
+## Kursused
 
-### 🟢 Algajatele
+**Algajatele**
+- [Sissejuhatus GitHubi](https://github.com/HKHK-Skills/introduction-to-github) — harud, commit'id, pull request'id
+- [Markdown](https://github.com/HKHK-Skills/communicate-using-markdown) — teksti vormindamine
+- [GitHub Pages](https://github.com/HKHK-Skills/github-pages) — veebilehe loomine
 
-| Kursus | Kirjeldus | Kestus |
-|--------|-----------|--------|
-| [Sissejuhatus GitHubi](https://github.com/HKHK-Skills/introduction-to-github) | Harud, commit'id, pull request'id | < 1 tund |
-| [Suhtlemine Markdown'iga](https://github.com/HKHK-Skills/communicate-using-markdown) | Teksti vormindamine, pildid, loendid | < 1 tund |
-| [GitHub Pages](https://github.com/HKHK-Skills/github-pages) | Loo veebileht oma repositooriumist | < 1 tund |
+**Kesktase**
+- [Pull request'ide ülevaatamine](https://github.com/HKHK-Skills/review-pull-requests)
+- [Codespaces](https://github.com/HKHK-Skills/code-with-codespaces) — pilves arenduskeskkond
 
-### 🟡 Kesktase
+**Edasijõudnud**
+- [GitHub Actions](https://github.com/HKHK-Skills/hello-github-actions) — töövoogude automatiseerimine
+- [Testimine Actionsiga](https://github.com/HKHK-Skills/test-with-actions) — CI/CD
 
-| Kursus | Kirjeldus | Kestus |
-|--------|-----------|--------|
-| [Pull request'ide ülevaatamine](https://github.com/HKHK-Skills/review-pull-requests) | Koodi ülevaatamine ja tagasiside | < 30 min |
-| [Kodeerimine Codespaces'iga](https://github.com/HKHK-Skills/code-with-codespaces) | Pilves arenduskeskkond | < 1 tund |
+**AI**
+- [GitHub Copilot](https://github.com/HKHK-Skills/getting-started-with-github-copilot)
 
-### 🔴 Edasijõudnud
+## Kuidas see töötab?
 
-| Kursus | Kirjeldus | Kestus |
-|--------|-----------|--------|
-| [Tere GitHub Actions](https://github.com/HKHK-Skills/hello-github-actions) | Esimene töövoog | < 2 tundi |
-| [Testimine Actionsiga](https://github.com/HKHK-Skills/test-with-actions) | CI/CD ja automaattestimine | < 2 tundi |
+Sul on oma organisatsioon (nt `akreimann`), kuhu teed kõik tööd. See jääb sulle portfoolioks.
 
-### 🤖 AI tööriistad
+**Kursuse alustamine:**
+1. Ava kursuse link ülalt
+2. Vajuta **Use this template** → **Create a new repository**
+3. Owner = **sinu org** (mitte isiklik konto!)
+4. Tee kursus läbi, jälgides README juhiseid
 
-| Kursus | Kirjeldus | Kestus |
-|--------|-----------|--------|
-| [GitHub Copiloti alustamine](https://github.com/HKHK-Skills/getting-started-with-github-copilot) | AI-toega kodeerimine | < 1 tund |
+**Ülesanded ja projektid:**
 
-## 🚀 Kuidas alustada?
+Õpetaja lisab sulle ülesanded läbi GitHub Projectsi. Vaata oma orgi **Projects** vahelehte — seal näed oma Kanban tahvlit kõigi ülesannetega. Kui õpetaja loob uue ülesande, tekib see automaatselt sinu tahvlile.
 
-1. Vali kursus ülaltoodud tabelist
-2. Kliki "Use this template" → "Create a new repository"
-3. Järgi juhiseid oma uues repositooriumis
+## Abi
 
-## 🏫 Kool
-
-[Haapsalu Kutsehariduskeskus](https://hkhk.edu.ee/) - IT-süsteemide nooremspetsialist
-
-## 📖 Lisaressursid
-
-- [GitHub Education](https://education.github.com/)
-- [GitHub Skills originaalkursused](https://github.com/skills)
-- [GitHub dokumentatsioon](https://docs.github.com/)
+Küsimused? Kirjuta [HKHK-Skills Discussions](https://github.com/orgs/HKHK-Skills/discussions).
 
 ---
 
-*Tõlgitud ja kohandatud HKHK õpilastele* | [Maria Talvik](https://github.com/mariahkhk)
+[Haapsalu Kutsehariduskeskus](https://hkhk.edu.ee/) · IT-süsteemide nooremspetsialist
